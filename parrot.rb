@@ -3,5 +3,4 @@
 def parrot(say = "Squawk!", parrot_says = "Pretty bird!")
   puts "#{say}"
   puts "#{parrot_says}"
-
 end
